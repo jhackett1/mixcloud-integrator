@@ -1,5 +1,5 @@
-Smoke Mixcloud Integrator
-=========================
+Mixcloud Integrator
+===================
 
 Wordpress plugin implementing a simple AngularJS application to display podcasts and allow them to be played in an embedded player.
 
